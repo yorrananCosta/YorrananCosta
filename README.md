@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 📚 Sou aluno de bacharelado em Ciência da Computação pela UNICENTRO 
+- 📚 Cursando o bacharelado em Ciência da Computação pela UNICENTRO 
 - 🎓 Sou Técnico de Informática pelo IFAP
 - 🌐 Estudando Língua Inglesa nas horas vagas
 - 💻 Estudando linguagem C++
+- 📚Conhecimento de básico de Java, HTML e Banco de Dados
