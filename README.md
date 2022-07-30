@@ -1,5 +1,4 @@
 ### 👋 Olá! Eu sou o Yorranan
-# esre
 
 
 <!--
